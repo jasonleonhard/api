@@ -1,0 +1,45 @@
+{
+    "executionTime": "2019-06-18 04:51:28 PM",
+    "stationBeanList": [
+        {
+            "id": 3791,
+            "stationName": "Hoboken Ave at Monmouth St",
+            "availableDocks": 19,
+            "totalDocks": 32,
+            "latitude": 40.73520838045357,
+            "longitude": -74.04696375131607,
+            "statusValue": "In Service",
+            "statusKey": 1,
+            "availableBikes": 13,
+            "stAddress1": "Hoboken Ave at Monmouth St",
+            "stAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "location": "",
+            "altitude": "",
+            "testStation": false,
+            "lastCommunicationTime": "2019-06-18 04:50:42 PM",
+            "landMark": ""
+        },
+        {
+            "id": 3795,
+            "stationName": "10 St & 2 Ave",
+            "availableDocks": 17,
+            "totalDocks": 19,
+            "latitude": 40.671907,
+            "longitude": -73.993612,
+            "statusValue": "In Service",
+            "statusKey": 1,
+            "availableBikes": 2,
+            "stAddress1": "10 St & 2 Ave",
+            "stAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "location": "",
+            "altitude": "",
+            "testStation": false,
+            "lastCommunicationTime": "2019-06-18 04:50:58 PM",
+            "landMark": ""
+        }
+    ]
+}
